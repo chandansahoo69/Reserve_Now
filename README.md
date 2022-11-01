@@ -1,4 +1,4 @@
-# Binary Search
+# Reserve Now
 
 A hotel reservation web application where users can find nearby hotels and reserve.
 
